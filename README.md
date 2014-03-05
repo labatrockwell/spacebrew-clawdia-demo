@@ -1,1 +1,1 @@
-This repo contains the code for the Spacebrew Clawdia demo. This is straight from the tutorial posted (here on the spacebrew.cc site)[http://docs.spacebrew.cc/tutorials/2013/1/31/heres-clawdia-the-robotic-servo-controlled-claw]
+This repo contains the code for the Spacebrew Clawdia demo. This is straight from the tutorial posted [here on the spacebrew.cc site](http://docs.spacebrew.cc/tutorials/2013/1/31/heres-clawdia-the-robotic-servo-controlled-claw)
